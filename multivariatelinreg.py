@@ -129,6 +129,4 @@
 	print theta0,theta1,theta2
 	#print Jold,Jnew 
 	print counter   
-	
-	
 	print matrix[10][0]
